@@ -1,3 +1,3 @@
 ## Alloy -  Solutions Architect Work Assignment
 
-Using the framework Flask create a Basic bank web application using Flask
+Basic webpage using the framework Flask which can submit application details via an API request to Alloy, then handle the response and display the outcome to the applicant.
